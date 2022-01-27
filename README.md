@@ -2,7 +2,7 @@
 <h1 align="center">Patrizio Secci</h1>
   <p align="center">
 
-<hr align=”left” size=”1″ width=”150″ color=”red” noshade>
+
 
 ### Hi there 👋
 🔭 I’m currently working as Industrial Engineer
